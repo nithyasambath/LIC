@@ -1,3 +1,10 @@
 nithya is a brillant and hardworking girl. it is vert important.
 
+<<<<<<< HEAD
 hi dear doing superb job
+=======
+
+ok bro this has been accepted go ahead with git learning
+
+
+53 min
